@@ -7,8 +7,8 @@
 ## 👤 Datos del Autor
 
 - **Nombre:** Alexis Esteban Roldan  
-- **Rol:** Estudiante de Desarrollo Full Stack / Responsable de Soporte Interno IT  
-- **Mail de contacto:** `alexis.roldan@hasar.com`  
+- **Rol:** Estudiante de Desarrollo Full Stack 
+- **Mail de contacto:** `a.eroldan@hotmail.com`  
 - **GitHub:** [@alexlpda1420](https://github.com/alexlpda1420)  
 - **LinkedIn:** [Alexis Esteban Roldan](https://www.linkedin.com/in/alexis-esteban-roldan/)
 
@@ -84,7 +84,7 @@ Incluye:
 ## 🏗️ Arquitectura General
 
 ```text
-ShopLink (Monorepo lógico)
+ShopLink
 ├─ Frontend  → React + Vite (Vercel)
 │   ├─ Rutas públicas: Home, Sobre Nosotros, Login, Registro, Contacto
 │   ├─ Rutas protegidas: Gestión de productos, Mi Perfil, Mi Carrito
