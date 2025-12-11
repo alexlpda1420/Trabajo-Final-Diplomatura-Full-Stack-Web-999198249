@@ -209,13 +209,18 @@ Abrir: `http://localhost:3000/` y consumir los endpoints desde el frontend o her
   </a>
 </p>
 
-### Durante la demo vas a ver:
-Navegación por la Home de ShopLink
-Filtros de productos por nombre, categoría, precio y stock
-Registro e inicio de sesión de usuarios
-Página de contacto enviando mensajes a través de la API
-Breve recorrido por la estructura técnica del backend
 ---
+
+### Durante la demo vas a ver:
+
+- Navegación por la Home de ShopLink
+- Filtros de productos por nombre, categoría, precio y stock
+- Registro e inicio de sesión de usuarios
+- Página de contacto enviando mensajes a través de la API
+- Breve recorrido por la estructura técnica del backend
+  
+---
+
 ## ✅ Estado del Trabajo Práctico
 
 - ✔️ Estructura MVC en backend  
