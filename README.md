@@ -227,6 +227,30 @@ Una vez que tengas el video grabado (YouTube, Drive, etc.), podés incrustarlo a
   ></iframe>
 </div>
 ```
+---
+## 🎥 Video Demostrativo
+
+> 💡 En GitHub el iframe puede no visualizarse por temas de seguridad,  
+> pero el enlace de abajo siempre va a funcionar.
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=GzJJRwD_7_8" target="_blank" rel="noopener noreferrer">
+    ▶️ Ver demo completa de ShopLink en YouTube
+  </a>
+</p>
+
+<div align="center">
+  <iframe
+    width="800"
+    height="450"
+    src="https://www.youtube.com/embed/GzJJRwD_7_8"
+    title="Demo ShopLink"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+  ></iframe>
+</div>
+---
 
 Solo reemplazá `VIDEO_ID` por el código del video de YouTube.
 
