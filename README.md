@@ -200,9 +200,6 @@ Abrir: `http://localhost:3000/` y consumir los endpoints desde el frontend o her
 
 ## 🎥 Video Demostrativo
 
-> 💡 En GitHub el iframe puede no visualizarse por temas de seguridad,  
-> pero el enlace de abajo siempre va a funcionar.
-
 <p align="center">
   <a href="https://www.youtube.com/watch?v=gj9xfbURTvQ" target="_blank" rel="noopener noreferrer">
     ▶️ Ver demo completa de ShopLink en YouTube
