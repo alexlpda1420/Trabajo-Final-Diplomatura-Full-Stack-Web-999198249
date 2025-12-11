@@ -24,7 +24,7 @@ El objetivo fue construir una **aplicación web completa** que combine:
 
 Todo esto cumpliendo con la consigna del TP:
 
-- API REST en TypeScript con arquitectura MVC, autenticación, validaciones, logs, rate limit, subida de archivos y deploy en Render. fileciteturn28file0
+- API REST en TypeScript con arquitectura MVC, autenticación, validaciones, logs, rate limit, subida de archivos y deploy en Render.
 - Frontend que consuma esa API en producción (Vercel).
 
 ---
