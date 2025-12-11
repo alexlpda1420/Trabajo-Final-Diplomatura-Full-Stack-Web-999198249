@@ -200,62 +200,22 @@ Abrir: `http://localhost:3000/` y consumir los endpoints desde el frontend o her
 
 ## 🎥 Video Demostrativo
 
-Una vez que tengas el video grabado (YouTube, Drive, etc.), podés incrustarlo acá.
-
-### 👉 Opción 1: Enlace + preview
-
-```md
-## 🎥 Video Demostrativo
-
-[Ver video de demostración en YouTube](https://youtube.com/XXXXXXXXX)
-```
-
-### 👉 Opción 2: iframe embebido (algunos viewers lo soportan)
-
-> ⚠️ GitHub suele bloquear iframes por seguridad, pero si usás otro visor de Markdown (portfolio personal, Notion, etc.), este bloque funciona:
-
-```html
-<div align="center">
-  <iframe
-    width="800"
-    height="450"
-    src="https://www.youtube.com/embed/VIDEO_ID"
-    title="Demo ShopLink"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen
-  ></iframe>
-</div>
-```
----
-## 🎥 Video Demostrativo
-
 > 💡 En GitHub el iframe puede no visualizarse por temas de seguridad,  
 > pero el enlace de abajo siempre va a funcionar.
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=GzJJRwD_7_8" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.youtube.com/watch?v=gj9xfbURTvQ" target="_blank" rel="noopener noreferrer">
     ▶️ Ver demo completa de ShopLink en YouTube
   </a>
 </p>
 
-<div align="center">
-  <iframe
-    width="800"
-    height="450"
-    src="https://www.youtube.com/embed/GzJJRwD_7_8"
-    title="Demo ShopLink"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen
-  ></iframe>
-</div>
+### Durante la demo vas a ver:
+Navegación por la Home de ShopLink
+Filtros de productos por nombre, categoría, precio y stock
+Registro e inicio de sesión de usuarios
+Página de contacto enviando mensajes a través de la API
+Breve recorrido por la estructura técnica del backend
 ---
-
-Solo reemplazá `VIDEO_ID` por el código del video de YouTube.
-
----
-
 ## ✅ Estado del Trabajo Práctico
 
 - ✔️ Estructura MVC en backend  
